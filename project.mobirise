@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "arabsad on gethub",
+    "name": "اعلانات العرب",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "vqeuifaahn",
+    "mbrsiteDomain": "arabsad",
     "usedWebp": true,
     "cssOptimize": false,
     "lazyLoad": false,
